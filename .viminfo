@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1709885721,,"wq"
+|2,0,1709888919,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,21 +25,32 @@
 # Registers:
 
 # File marks:
-'0  4  77  ~/raj.txt
-|4,48,4,77,1709885721,"~/raj.txt"
+'0  6  12  ~/raj.txt
+|4,48,6,12,1709888919,"~/raj.txt"
+'1  4  77  ~/raj.txt
+|4,49,4,77,1709885721,"~/raj.txt"
+'2  4  77  ~/raj.txt
+|4,50,4,77,1709885721,"~/raj.txt"
 
 # Jumplist (newest first):
+-'  6  12  ~/raj.txt
+|4,39,6,12,1709888919,"~/raj.txt"
+-'  4  77  ~/raj.txt
+|4,39,4,77,1709888891,"~/raj.txt"
 -'  4  77  ~/raj.txt
 |4,39,4,77,1709885721,"~/raj.txt"
+-'  1  0  ~/raj.txt
+|4,39,1,0,1709885685,"~/raj.txt"
 -'  1  0  ~/raj.txt
 |4,39,1,0,1709885685,"~/raj.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/raj.txt
-	*	1709885716	0
-	"	4	77
-	^	4	78
-	.	4	77
+	*	1709888913	0
+	"	6	12
+	^	6	13
+	.	6	12
 	+	2	0
 	+	4	77
+	+	6	12
